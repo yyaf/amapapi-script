@@ -3,7 +3,7 @@ import time
 
 def get_pois():
     keywords = '关键词'
-    key = 'b71774895644a654648295448faf24'  # 注册高德开放平台获取key
+    key = ''  # 注册高德开放平台获取key
     page = 1
 
     urls = []
